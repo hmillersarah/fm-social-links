@@ -37,8 +37,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/hmillersarah/fm-social-links)
-- Live Site URL: [Add live site URL here](https://hmillersarah.github.io/fm-social-links/)
+- Solution URL: [github.com/hmillersarah/fm-social-links](https://github.com/hmillersarah/fm-social-links)
+- Live Site URL: [hmillersarah.github.io/fm-social-links/](https://hmillersarah.github.io/fm-social-links/)
 
 ## My process
 
